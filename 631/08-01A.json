@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "63.21 mg", 
+    "comment": "61.58 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63110", 
-    "increment": null, 
+    "identifier": "63108", 
+    "increment": 0, 
     "irradiation": "NM-269", 
     "irradiation_level": "G", 
-    "irradiation_position": 4, 
+    "irradiation_position": 2, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "SanFrancisco", 
     "queue_conditionals_name": "", 
     "repository_identifier": "SanFrancisco", 
-    "sample": "NMGS-2013-2", 
+    "sample": "NMGS-2013-1", 
     "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
-    "timestamp": "2014-11-10T23:26:36", 
+    "timestamp": "2014-11-10T19:08:49", 
     "username": "MZimmerer", 
-    "uuid": "a0b00039-e60f-45e1-9f1e-d604e0a353a8"
+    "uuid": "117e77cf-5133-45e5-93f7-d2eb569a9008"
 }
