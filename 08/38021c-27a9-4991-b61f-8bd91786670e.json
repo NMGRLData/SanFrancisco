@@ -1,6 +1,6 @@
 {
     "acquisition_software": "pychron 20.1.1",
-    "aliquot": 2,
+    "aliquot": 1,
     "analysis_type": "unknown",
     "analyst_name": "root",
     "arar_mapping": {
@@ -117,13 +117,13 @@
     "extraction": "felix_diode.py",
     "grainsize": "",
     "hops": "",
-    "identifier": "69358",
+    "identifier": "69359",
     "increment": 1,
     "instrument_name": "",
     "intensity_scalar": 0.0,
     "irradiation": "NM-321",
     "irradiation_level": "A",
-    "irradiation_position": 3,
+    "irradiation_position": 4,
     "isotopes": {
         "Ar36": {
             "detector": "L2(CDD)",
